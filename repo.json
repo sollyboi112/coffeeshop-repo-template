@@ -6,6 +6,7 @@
   "version": "1",
   "games": [
     {
+      "id": "mario-kart-8",
       "path": "games/mk8/game.json"
     }
   ]
