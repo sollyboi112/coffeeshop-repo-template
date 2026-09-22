@@ -1,6 +1,5 @@
 {
-  "name": "Mario Kart 8",
-  "icon": "https://cdn2.steamgriddb.com/icon_thumb/ac1ad983e08ad3304a97e147f522747e.png",
+  "name": "Mario kart 8",
   "titleIds": [
     "000500001010EB00",
     "000500001010EC00",
@@ -8,83 +7,18 @@
   ],
   "mods": [
     {
-      "id": "dummydum-mod",
-      "name": "Dummy Mod",
-      "type": "mod",
-      "version": "1.0.0",
-      "author": "ExampleUser",
-      "description": "A simple example mod that demonstrates the basic structure of a CupStore mod entry.",
-      "thumbnail": "https://picsum.photos/seed/mk8mod1/400/225",
-      "screenshots": [
-        "https://picsum.photos/seed/mk8mod1a/800/450",
-        "https://picsum.photos/seed/mk8mod1b/800/450"
-      ],
-      "download": "https://github.com/timkicker/cupstore-repo-template/releases/download/dummy-testing/dummy-mod-mk8.zip",
-      "releaseDate": "2024-01-15",
-      "license": "CC BY-NC",
-      "tags": ["skin"],
-      "fileSize": 204800,
-      "requirements": [],
-      "changelog": "1.0.0 - Initial release"
-    },
-    {
-      "id": "custom-music-pack",
-      "name": "Custom Music Pack",
-      "type": "mod",
-      "version": "2.1.0",
-      "author": "MusicModder",
-      "description": "Replaces all in-game music with custom tracks. Over 40 songs included.",
-      "thumbnail": "https://picsum.photos/seed/mk8music/400/225",
-      "screenshots": [
-        "https://picsum.photos/seed/mk8musica/800/450",
-        "https://picsum.photos/seed/mk8musicb/800/450"
-      ],
-      "download": "https://github.com/timkicker/cupstore-repo-template/releases/download/dummy-testing/dummy-mod-mk8.zip",
-      "releaseDate": "2024-03-10",
-      "license": "CC BY-NC-SA",
-      "tags": ["music"],
-      "fileSize": 52428800,
-      "changelog": "2.1.0 - Added 10 new tracks\n2.0.0 - Full soundtrack replacement\n1.0.0 - Initial release"
-    },
-    {
-      "id": "retro-track-pack",
-      "name": "Retro Track Textures",
-      "type": "mod",
-      "version": "1.3.2",
-      "author": "RetroFan",
-      "description": "Gives all retro cups a classic low-poly aesthetic inspired by older Mario Kart titles.",
-      "thumbnail": "https://picsum.photos/seed/mk8retro/400/225",
-      "screenshots": [
-        "https://picsum.photos/seed/mk8retroa/800/450",
-        "https://picsum.photos/seed/mk8retrob/800/450",
-        "https://picsum.photos/seed/mk8retroc/800/450"
-      ],
-      "download": "https://github.com/timkicker/cupstore-repo-template/releases/download/dummy-testing/dummy-mod-mk8.zip",
-      "releaseDate": "2024-02-20",
-      "license": "CC BY",
-      "tags": ["course", "texture"],
-      "fileSize": 10485760,
-      "changelog": "1.3.2 - Fixed UV mapping on Koopa Troopa Beach\n1.3.0 - Added Rainbow Road retro style\n1.0.0 - Initial release"
-    },
-    {
-      "id": "ultimate-bundle",
-      "name": "Ultimate MK8 Bundle",
+      "id": "mk8universal",
+      "name": "Mk8 universal",
       "type": "modpack",
-      "version": "1.0.0",
-      "author": "ExampleUser",
-      "description": "A curated bundle combining the Custom Music Pack and Retro Track Textures into one install.",
-      "thumbnail": "https://picsum.photos/seed/mk8bundle/400/225",
-      "screenshots": [
-        "https://picsum.photos/seed/mk8bundlea/800/450"
-      ],
-      "includes": [
-        "custom-music-pack",
-        "retro-track-pack"
-      ],
-      "download": "https://github.com/timkicker/cupstore-repo-template/releases/download/dummy-testing/dummy-mod-mk8.zip",
-      "releaseDate": "2024-04-01",
-      "tags": ["music", "course", "texture"],
-      "fileSize": 62914560
+      "version": "1.7.1",
+      "author": "D13GO",
+      "description": "Adds lots of custom tracks and characters",
+      "download": "https://download1582.mediafire.com/iwpc8ejs48kgXKky6FJJPgJ8vj23E65SRUqbtI-siax_PeC9-IMwUrq2_pPl_h9-BDjlAOtJVJ2GvMDp3pTTM6AB1yJl5JHWl4qBETbijiRZs-EbiON1y9jscQ8Q2q43sM616KpjjzA7TNkGJcphjaCHC3w7PxSzVBRnKIA0di0/1x9u1zxzyp6u718/MK8_Universal_1.7.1.rar",
+      "thumbnail": "https://images.gamebanana.com/img/ss/mods/67ea450944d37.jpg",
+      "tags": [
+        "Customtrackscustom",
+        "customcharachters"
+      ]
     }
   ]
 }
